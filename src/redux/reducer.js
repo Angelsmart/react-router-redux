@@ -2,7 +2,7 @@ import { REDUCE,ADD } from "../action/actions";
 import { combineReducers } from 'redux'
 
 const initialState={
-	array:['8','7','6','4']
+	array:['8','7','6','4','10']
 }
 
 
